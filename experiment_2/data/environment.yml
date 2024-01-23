@@ -1,0 +1,12 @@
+name: PHYS5318
+channels:
+  - defaults
+dependencies:
+  - pip
+  - pip:
+      - h5py
+      - matplotlib
+      - numpy
+      - opencv-python
+      - scipy
+      - jupyterlab
